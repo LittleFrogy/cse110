@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-
-
 #task 1 wrong way
 
 
